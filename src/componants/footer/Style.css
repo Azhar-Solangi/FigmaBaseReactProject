@@ -1,0 +1,17 @@
+.bg-col1{
+background-color:black;
+text-align: center;
+padding-top: 10rem;
+padding-bottom: 10rem;
+color: white;
+
+}
+.lastDiv{
+    background-color:black;
+    text-align: center;
+    color: white;
+    border-top: 1px solid white;
+    padding-top: 3rem;
+padding-bottom: 3rem;
+    
+}

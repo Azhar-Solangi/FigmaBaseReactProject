@@ -1,0 +1,54 @@
+/* navbar CSS */
+.nav-bg{
+    background-color:  #CAEF46;
+    ;
+}
+.navebar-text{
+    margin-left: 17.5rem;
+  
+   
+}
+.text-head{
+    color: #0E1D5A !important;
+    font-weight: 900 !important;
+}
+.list{
+    margin-left: 5rem;
+    
+    font-weight: 500 !important;
+
+    
+}
+.main-div{
+    background-color: #FFF1E8;
+}
+
+.ux-text{
+    font-size: 5rem;
+    padding-top: 4rem;
+}
+.join-free-btn{
+    background-color:  #CAEF46;
+    padding: 0.5rem 1.5rem ;
+   
+}
+
+
+
+
+
+
+
+
+/* media querry */
+
+@media  (max-width:768px) {
+
+    .text-head{
+        text-align: center;
+        color: red;
+    }
+    .list{
+    color: red;
+    }
+ }
